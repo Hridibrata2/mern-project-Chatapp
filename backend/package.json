@@ -6,6 +6,9 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "keywords": [],
   "author": "",
   "type": "module",
@@ -27,3 +30,4 @@
     "nodemon": "^3.1.9"
   }
 }
+
